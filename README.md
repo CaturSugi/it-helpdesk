@@ -29,7 +29,7 @@
 - Tabel tiket terbaru
 
 ### 🔍 Filter & Pencarian
-- Filter by: status, prioritas, kategori, agent
+- Filter by: status, prioritas, kategori, agen
 - Full-text search pada subjek, nomor tiket, nama user
 - Pagination dengan navigasi halaman
 
