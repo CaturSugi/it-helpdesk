@@ -183,4 +183,4 @@ Mail::to($ticket->user->email)->send(new TicketCreatedMail($ticket));
 - Laravel 11
 - MySQL / MariaDB / PostgreSQL
 - Composer
-- Node.js (opsional, untuk Vite jika digunakan)
+- Node.js opsional, untuk Vite jika digunakan
